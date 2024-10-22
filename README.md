@@ -15,6 +15,6 @@ the item, or do a check in every tick of this loop, to see if the sprite was tou
 
 eg.
 
-if touching(sprite1, sprite2):
-    # sprite1 is currently hovering over sprite2
-
+<code>if touching(sprite1, sprite2):
+      # sprite1 is currently hovering over sprite2
+</code>
